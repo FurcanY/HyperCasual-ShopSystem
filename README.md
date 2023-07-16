@@ -3,6 +3,8 @@
 
 ## :grey_exclamation: Bu projemde Hyper Casual oyunlarda sık karşılaştığımız, rastgele olarak skin açma shop sistemini yaptım. :grey_exclamation:
 
+## Projeyi web üzerinden görüntülemek için :point_right:[buraya](https://furcany.itch.io/hypercasualshopsystem):point_left: tıklayınız. 
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRvMnZvZjltcnlnZHBlN2p0Y2MxMDlvbndla2d4cXAyOTdoOXJ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ikW91tb9WKB9Rmf44L/giphy.gif" width="640" height="360" />
 
 ![OyunIciGoruntu1](https://github.com/FurcanY/HyperCasual-ShopSystem/assets/114299899/706955e5-82b7-42d9-ad56-f879a6936537)
